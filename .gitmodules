@@ -1,0 +1,3 @@
+[submodule "hugo-blog-theme"]
+	path = hugo-blog-theme
+	url = https://github.com/wangluo021/hugo-blog-theme/
