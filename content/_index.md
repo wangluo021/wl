@@ -102,7 +102,7 @@ sections:
       text: |
         A collection of my recent photography.
 
-        ![Image 1](/uploads/gallery/2024.jpg)
+        ![Image 1](/uploads/2024.jpg)
 
   - block: collection
     id: featured
