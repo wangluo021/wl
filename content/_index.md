@@ -107,7 +107,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Recent Publications
+      title: Recent Publications & Presentations
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -125,7 +125,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Feel free to contact me if you have any question!
       # Contact (add or remove contact options as necessary)
       email: lhrwang@umich.edu
       phone: (206)-730-2784
