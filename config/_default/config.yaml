@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Academic # Website name
-baseURL: 'https://wangluo021.github.io/' # Website URL
+baseURL: 'https://wangluo021.github.io/wl/' # Website URL
 
 ############################
 ## LANGUAGE
