@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Academic</title>
+    <link>https://wangluo021.github.io/wl/event/</link>
+      <atom:link href="https://wangluo021.github.io/wl/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Sep 2023 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wangluo021.github.io/wl/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://wangluo021.github.io/wl/event/</link>
+    </image>
+    
+    <item>
+      <title>First conference presentation</title>
+      <link>https://wangluo021.github.io/wl/talk/first-conference-presentation/</link>
+      <pubDate>Wed, 20 Sep 2023 10:00:00 +0000</pubDate>
+      <guid>https://wangluo021.github.io/wl/talk/first-conference-presentation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
