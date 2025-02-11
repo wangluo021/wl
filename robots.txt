@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://wangluo021.github.io/wl/sitemap.xml

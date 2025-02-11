@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides | Academic</title>
+    <link>https://wangluo021.github.io/wl/slides/</link>
+      <atom:link href="https://wangluo021.github.io/wl/slides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slides</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>ASC Rain V4 Presentation</title>
+      <link>https://wangluo021.github.io/wl/slides/example/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://wangluo021.github.io/wl/slides/example/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://wangluo021.github.io/wl/uploads/ASC_Rain_V4.pdf&#34;&gt;👉 View Slides&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
