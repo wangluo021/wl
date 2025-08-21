@@ -71,5 +71,5 @@ email: ''
 highlight_name: true
 ---
 
-Luohaoran Wang is a graduate student in Mechanical Engineering at University of Michigan, Ann Arbor and Prof. Miki Banu's Group. His research interests include functional carbon fiber composites, composites manufacturing, simulation, and machine learning. 
+Luohaoran Wang is a graduate student in Mechanical Engineering at University of Michigan, Ann Arbor and in Prof. Miki Banu's Group. His research interests include functional carbon fiber composites, composites manufacturing, simulation, and machine learning. 
 {style="text-align: justify;"}
