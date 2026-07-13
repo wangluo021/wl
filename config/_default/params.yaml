@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Academic website of Luohaoran Wang, a Mechanical Engineering Ph.D. candidate at the University of Michigan.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: 'Copyright (c) {year} Luohaoran Wang. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -70,9 +70,9 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/wangluo021/wl'
     content_dir: content
-    branch: main
+    branch: gh-pages
   avatar:
     gravatar: false
     shape: circle
@@ -104,7 +104,7 @@ features:
 
 extensions:
   cms:
-    branch: main
+    branch: gh-pages
     local_backend: false
   academicons:
     enable: true

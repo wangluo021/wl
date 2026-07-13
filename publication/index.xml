@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
+    <title>Publications | Luohaoran Wang</title>
     <link>https://wangluo021.github.io/wl/publication/</link>
       <atom:link href="https://wangluo021.github.io/wl/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Coming soon</title>
+      <title>Manuscripts in preparation</title>
       <link>https://wangluo021.github.io/wl/publication/preprint/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://wangluo021.github.io/wl/publication/preprint/</guid>

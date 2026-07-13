@@ -15,17 +15,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: Engineering
-          description: 100%
+        - name: Finite Element Analysis
+          description: Process simulation and mechanics modeling
           icon: r-project
           icon_pack: fab
-        - name: Science
-          description: 70%
+        - name: Machine Learning
+          description: Data-driven process optimization
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 80%
-          icon: camera-retro
+        - name: Composite Manufacturing
+          description: Carbon fiber composites and sustainable processing
+          icon: industry
           icon_pack: fas
   - block: experience
     id: Exp
@@ -50,9 +50,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Simulation
-              * Experiment
-              * Machine Learning
+              * Dry processing of solid-state battery electrodes
+              * Finite element simulation and process modeling
+              * Machine-learning-assisted optimization of manufacturing parameters
         - title: Research Assistant
           company: University of Washington, Seattle
           company_url: ''
@@ -60,7 +60,7 @@ sections:
           location: Seattle
           date_start: '2023-06-01'
           date_end: '2024-06-15'
-          description: Recycling of carbon fiber prepreg was studied with discontinuous fiber compound method (DFC) and bulk molding compound (BMC) methods. The material's parameters were optimized by Gaussian process regression (GPR) machine learning model.
+          description: Studied recycling of carbon fiber prepreg using discontinuous fiber compound (DFC) and bulk molding compound (BMC) methods. Optimized material and process parameters with Gaussian process regression (GPR).
         - title: Research Assistant
           company: University of Nottingham, Ningbo China
           company_url: ''
@@ -68,14 +68,14 @@ sections:
           location: Ningbo
           date_start: '2020-06-01'
           date_end: '2022-06-15'
-          description: High performance of recycled carbon fiber was investigated during the undergraduate period with fire retardant application on recycled carbon fiber mat.
+          description: Investigated high-performance recycled carbon fiber materials and fire-retardant applications for recycled carbon fiber mats.
     design:
       columns: '2'
   - block: accomplishments
     id: Ac
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: Accomplishments
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -102,16 +102,14 @@ sections:
       text: |
         A collection of my recent photography.
 
-        ![Image 1](/lw/uploads/2024.jpg)
+        ![Image 1](/wl/uploads/2024.jpg)
 
   - block: collection
     id: featured
     content:
       title: Recent Publications & Presentations
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+        Selected publications, presentations, and current manuscripts.
       filters:
         folders:
           - publication
@@ -125,7 +123,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Feel free to contact me if you have any question!
+        Feel free to contact me if you have any questions.
       # Contact (add or remove contact options as necessary)
       email: lhrwang@umich.edu
       phone: (206)-730-2784
