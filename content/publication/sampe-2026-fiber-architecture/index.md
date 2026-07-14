@@ -19,7 +19,7 @@ tags:
   - Carbon Fiber Composites
   - Structural Performance
 featured: false
-url_pdf: ""
+url_pdf: "https://www.nasampe.org/store/viewproduct.aspx?ID=27482667"
 url_code: ''
 url_dataset: ''
 url_poster: ''
