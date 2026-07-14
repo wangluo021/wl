@@ -21,7 +21,7 @@ tags:
   - Molecular Dynamics
   - Polymer Systems
 featured: false
-url_pdf: ""
+url_pdf: "https://www.mdpi.com/2073-4360/18/6/679"
 url_code: ''
 url_dataset: ''
 url_poster: ''
