@@ -5,28 +5,51 @@
     <link>https://wangluo021.github.io/wl/project/</link>
       <atom:link href="https://wangluo021.github.io/wl/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wangluo021.github.io/wl/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://wangluo021.github.io/wl/project/</link>
     </image>
-    
+
     <item>
-      <title>Dry Processing of Solid-State Battery Electrodes</title>
+      <title>Scalable Solid-State Battery Processing &amp; Multiphysics Modeling</title>
       <link>https://wangluo021.github.io/wl/project/example/</link>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://wangluo021.github.io/wl/project/example/</guid>
-      <description>Experimental and computational study of dry electrode processing routes for scalable solid-state battery manufacturing.</description>
+      <description>COMSOL-based spray deposition modeling and dry processing workflows for scalable solid-state battery component manufacturing.</description>
     </item>
-    
+
     <item>
-      <title>Recycling and Optimization of Carbon Fiber Composites</title>
-      <link>https://wangluo021.github.io/wl/project/external-project/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://wangluo021.github.io/wl/project/external-project/</guid>
-      <description>Recycling-oriented composite processing using discontinuous fiber compound and bulk molding compound methods with machine-learning-assisted parameter optimization.</description>
+      <title>EV Pultrusion Battery Separators &amp; Crash Simulation</title>
+      <link>https://wangluo021.github.io/wl/project/ev-pultrusion-battery-separators/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://wangluo021.github.io/wl/project/ev-pultrusion-battery-separators/</guid>
+      <description>LS-DYNA crash simulation and design optimization of low-cost carbon fiber composite battery module separators for electric-vehicle structures.</description>
     </item>
-    
+
+    <item>
+      <title>Robot-Based Modular Molds for Wind Blade Manufacturing</title>
+      <link>https://wangluo021.github.io/wl/project/robotic-wind-blade-molds/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://wangluo021.github.io/wl/project/robotic-wind-blade-molds/</guid>
+      <description>Additive manufacturing and experimental validation of LEGO-type modular molds for wind blade composite fabrication.</description>
+    </item>
+
+    <item>
+      <title>Thermoplastic Prepreg Formability &amp; Thermomechanical Characterization</title>
+      <link>https://wangluo021.github.io/wl/project/thermoplastic-prepreg-formability/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://wangluo021.github.io/wl/project/thermoplastic-prepreg-formability/</guid>
+      <description>DMA, hot pressing, and bending experiments to study the thermomechanical behavior and formability of aerospace thermoplastic prepregs.</description>
+    </item>
+
+    <item>
+      <title>Carbon Fiber Prepreg Recycling &amp; Data-Driven Optimization</title>
+      <link>https://wangluo021.github.io/wl/project/external-project/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://wangluo021.github.io/wl/project/external-project/</guid>
+      <description>Recycled carbon fiber composite processing using bulk molding compound methods, DIC, and machine-learning-assisted performance prediction.</description>
+    </item>
   </channel>
 </rss>

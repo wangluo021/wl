@@ -24,6 +24,7 @@ url_project: ''
 url_slides: "/slides/MSEC_2025_v3.pdf"
 url_source: ''
 url_video: ''
-projects: []
+projects:
+  - ev-pultrusion-battery-separators
 slides: ''
 ---

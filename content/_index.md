@@ -15,17 +15,25 @@ sections:
     content:
       title: Skills
       items:
-        - name: Finite Element Analysis
-          description: Process simulation and mechanics modeling
-          icon: r-project
-          icon_pack: fab
-        - name: Machine Learning
-          description: Data-driven process optimization
+        - name: Multiphysics Simulation
+          description: COMSOL, ABAQUS, and LS-DYNA modeling
+          icon: cogs
+          icon_pack: fas
+        - name: Machine Learning & Data Analysis
+          description: Python, MATLAB, and data-driven manufacturing models
           icon: chart-line
           icon_pack: fas
         - name: Composite Manufacturing
-          description: Carbon fiber composites and sustainable processing
+          description: Pultrusion, BMC, hot pressing, hand layup, and vacuum infusion
           icon: industry
+          icon_pack: fas
+        - name: Materials Characterization
+          description: DMA, DSC, DIC, SEM, and laser profilometry
+          icon: microscope
+          icon_pack: fas
+        - name: Sustainable Materials
+          description: Recycled carbon fiber composites and functional coatings
+          icon: recycle
           icon_pack: fas
   - block: experience
     id: Exp
@@ -45,14 +53,15 @@ sections:
           company_url: ''
           company_logo: UM
           location: Ann Arbor
-          date_start: '2024-07-01'
+          date_start: '2024-09-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Dry processing of solid-state battery electrodes
-              * Finite element simulation and process modeling
-              * Machine-learning-assisted optimization of manufacturing parameters
+              * Developing COMSOL multiphysics models of spray deposition to improve coating uniformity in scalable solid-state battery processing
+              * Designing dry processing workflows for solid-state battery components and fabricating cells with 93% Coulombic efficiency
+              * Building LS-DYNA crash simulations for pultruded carbon fiber composite battery separators in electric-vehicle structures
+              * Applying machine-learning methods to optimize fiber distribution, composite architecture, and manufacturing parameters
         - title: Research Assistant
           company: University of Washington, Seattle
           company_url: ''
@@ -60,7 +69,13 @@ sections:
           location: Seattle
           date_start: '2023-06-01'
           date_end: '2024-06-15'
-          description: Studied recycling of carbon fiber prepreg using discontinuous fiber compound (DFC) and bulk molding compound (BMC) methods. Optimized material and process parameters with Gaussian process regression (GPR).
+          description: |2-
+              Responsibilities included:
+
+              * Fabricated recycled carbon fiber composites through bulk molding compound (BMC) processing and evaluated laminate quality
+              * Used digital image correlation and convolutional neural networks to analyze and predict composite failure behavior
+              * Built Python-based machine-learning models on approximately 100 experimental samples to connect processing conditions with performance
+              * Characterized thermoplastic prepregs through DMA stress relaxation, thermal ramp, and four-point bending tests
         - title: Research Assistant
           company: University of Nottingham, Ningbo China
           company_url: ''
@@ -68,7 +83,12 @@ sections:
           location: Ningbo
           date_start: '2020-06-01'
           date_end: '2022-06-15'
-          description: Investigated high-performance recycled carbon fiber materials and fire-retardant applications for recycled carbon fiber mats.
+          description: |2-
+              Responsibilities included:
+
+              * Designed recycled and hybrid fiber composites for sustainable structural applications
+              * Integrated natural fibers, fire-retardant systems, and functional coatings to tune mechanical, thermal, and electrical properties
+              * Developed ABAQUS finite element models of wing-structured flexible sensors and refined model accuracy through boundary-condition validation
     design:
       columns: '2'
   - block: accomplishments
@@ -92,6 +112,14 @@ sections:
           organization: University of Washington, Seattle
           organization_url: https://uw.edu
           title: Master of Science
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: ''
+          description: Outstanding Participant in FoSE Elite Project; First Prize in Online Yangming Cultural Study and Knowledge Contest; Communication and Marketing Campaign Volunteer; AIESEC Volunteer.
+          organization: Selected Honors and Service
+          organization_url: ''
+          title: Honors and Volunteer Service
           url: ''
     design:
       columns: '2'

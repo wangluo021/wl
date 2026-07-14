@@ -1,11 +1,11 @@
 ---
-title: Recycling and Optimization of Carbon Fiber Composites
-summary: Recycling-oriented composite processing using discontinuous fiber compound and bulk molding compound methods with machine-learning-assisted parameter optimization.
+title: Carbon Fiber Prepreg Recycling & Data-Driven Optimization
+summary: Recycled carbon fiber composite processing using bulk molding compound methods, DIC, and machine-learning-assisted performance prediction.
 tags:
   - Carbon Fiber Composites
   - Sustainable Manufacturing
   - Machine Learning
-date: '2023-06-01T00:00:00Z'
+date: '2022-10-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -15,6 +15,6 @@ image:
   focal_point: Smart
 ---
 
-This project focuses on recycling and reprocessing carbon fiber prepreg through discontinuous fiber compound (DFC) and bulk molding compound (BMC) approaches. The goal is to improve material reuse while maintaining useful mechanical performance for composite manufacturing.
+This project focuses on recycling and reprocessing carbon fiber prepreg through bulk molding compound (BMC) and discontinuous fiber compound approaches. The goal is to improve material reuse while maintaining useful mechanical performance and consistent laminate quality.
 
-The work uses experimental characterization and Gaussian process regression to study how processing parameters affect recycled composite performance and to identify improved manufacturing conditions.
+The work combines composite fabrication, digital image correlation, convolutional neural networks, and Python-based machine-learning models built from approximately 100 experimental samples. The models correlate processing conditions with composite performance and support improved manufacturing parameter selection.

@@ -115,4 +115,14 @@
     <loc>https://wangluo021.github.io/wl/category/%E6%95%99%E7%A8%8B/</loc>
     <changefreq>weekly</changefreq>
   </url>
+
+  <url>
+    <loc>https://wangluo021.github.io/wl/project/ev-pultrusion-battery-separators/</loc>
+  </url>
+  <url>
+    <loc>https://wangluo021.github.io/wl/project/robotic-wind-blade-molds/</loc>
+  </url>
+  <url>
+    <loc>https://wangluo021.github.io/wl/project/thermoplastic-prepreg-formability/</loc>
+  </url>
 </urlset>

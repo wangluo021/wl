@@ -1,11 +1,11 @@
 ---
-title: Dry Processing of Solid-State Battery Electrodes
-summary: Experimental and computational study of dry electrode processing routes for scalable solid-state battery manufacturing.
+title: Scalable Solid-State Battery Processing & Multiphysics Modeling
+summary: COMSOL-based spray deposition modeling and dry processing workflows for scalable solid-state battery component manufacturing.
 tags:
   - Battery Manufacturing
   - Advanced Manufacturing
-  - Finite Element Analysis
-date: '2024-07-01T00:00:00Z'
+  - Multiphysics Modeling
+date: '2025-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -22,6 +22,6 @@ url_video: ''
 slides: ''
 ---
 
-This project studies dry processing routes for solid-state battery electrodes, with an emphasis on scalable manufacturing, process stability, and electrode performance. The work combines experiments, finite element simulation, and data-driven optimization to connect processing conditions with material structure and performance.
+This project studies scalable processing routes for solid-state battery components, with an emphasis on dry processing, spray deposition, coating uniformity, and manufacturable process windows. The work combines COMSOL multiphysics modeling, experimental fabrication, and parametric studies to connect deposition conditions with electrode quality and cell performance.
 
-Current focus areas include process-structure-property relationships, mechanics-informed process modeling, and machine-learning-assisted identification of robust manufacturing windows.
+Current focus areas include velocity and geometry effects in spray deposition, process-structure-property relationships, scalable dry manufacturing workflows, and solid-state battery cell fabrication. Recent cell fabrication work achieved 93% Coulombic efficiency.

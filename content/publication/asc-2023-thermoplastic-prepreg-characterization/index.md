@@ -24,6 +24,6 @@ url_slides: "/slides/ASC_Rain_V4.pdf"
 url_source: ''
 url_video: ''
 projects:
-  - external-project
+  - thermoplastic-prepreg-formability
 slides: ''
 ---

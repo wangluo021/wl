@@ -5,64 +5,75 @@
     <link>https://wangluo021.github.io/wl/publication/</link>
       <atom:link href="https://wangluo021.github.io/wl/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wangluo021.github.io/wl/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://wangluo021.github.io/wl/publication/</link>
     </image>
-    
+
     <item>
-      <title>Manuscripts in preparation</title>
-      <link>https://wangluo021.github.io/wl/publication/preprint/</link>
+      <title>A Theory-Guided Machine Learning and Molecular Dynamics Approach for Characterizing Fast-Curing Polyurethane Systems</title>
+      <link>https://wangluo021.github.io/wl/publication/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://wangluo021.github.io/wl/publication/#a-theory-guided-machine-learning-and-molecular-dynamics-approach-for-characterizing-fast-curing-polyurethane-systems</guid>
+      <description>Polymers 18(6), 679</description>
+    </item>
+
+    <item>
+      <title>Beyond Homogeneity: Fiber Architecture Effects on the Structural Performance of Pultruded Thermoset Composites</title>
+      <link>https://wangluo021.github.io/wl/publication/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://wangluo021.github.io/wl/publication/#beyond-homogeneity:-fiber-architecture-effects-on-the-structural-performance-of-pultruded-thermoset-composites</guid>
+      <description>SAMPE 2026</description>
+    </item>
+
+    <item>
+      <title>Enabling On-Demand Aerospace Component Manufacturing: Topology Optimization of GE Engine Bracket and Fabrication Using Metal FFF</title>
+      <link>https://wangluo021.github.io/wl/publication/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://wangluo021.github.io/wl/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://wangluo021.github.io/wl/publication/#enabling-on-demand-aerospace-component-manufacturing:-topology-optimization-of-ge-engine-bracket-and-fabrication-using-metal-fff</guid>
+      <description>ASME IMECE 2025</description>
     </item>
-    
+
+    <item>
+      <title>Crash Simulation Analysis for Optimization of the Carbon Fiber Polymer Composite Pultruded Battery Separators</title>
+      <link>https://wangluo021.github.io/wl/publication/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://wangluo021.github.io/wl/publication/#crash-simulation-analysis-for-optimization-of-the-carbon-fiber-polymer-composite-pultruded-battery-separators</guid>
+      <description>ASME MSEC 2025</description>
+    </item>
+
+    <item>
+      <title>Pultrusion of structural components made of low-cost PAN CF composites</title>
+      <link>https://wangluo021.github.io/wl/publication/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://wangluo021.github.io/wl/publication/#pultrusion-of-structural-components-made-of-low-cost-pan-cf-composites</guid>
+      <description>NORA, BASF North America [Poster Presentation]</description>
+    </item>
+
+    <item>
+      <title>Crash Simulation Analysis for Optimization of the Carbon Fiber Polymer Composite Pultruded Battery Separators</title>
+      <link>https://wangluo021.github.io/wl/publication/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://wangluo021.github.io/wl/publication/#crash-simulation-analysis-for-optimization-of-the-carbon-fiber-polymer-composite-pultruded-battery-separators</guid>
+      <description>ASME 2025 20th International Manufacturing Science and Engineering Conference [Presentation]</description>
+    </item>
+
+    <item>
+      <title>Comparing Characterization Methods for Investigating the High-Temperature Bending Behavior of Melted Thermoplastic Prepreg Using DMA and Rheometry</title>
+      <link>https://wangluo021.github.io/wl/publication/</link>
+      <pubDate>Wed, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://wangluo021.github.io/wl/publication/#comparing-characterization-methods-for-investigating-the-high-temperature-bending-behavior-of-melted-thermoplastic-prepreg-using-dma-and-rheometry</guid>
+      <description>American Society for Composites 38th Annual Technical Conference [Presentation]</description>
+    </item>
+
     <item>
       <title>A wing-structured sensor with multiple mechanical stimuli differentiation capabilities toward multifunctional applications</title>
-      <link>https://wangluo021.github.io/wl/publication/journal-article/</link>
-      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://wangluo021.github.io/wl/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <link>https://wangluo021.github.io/wl/publication/</link>
+      <pubDate>Wed, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://wangluo021.github.io/wl/publication/#a-wing-structured-sensor-with-multiple-mechanical-stimuli-differentiation-capabilities-toward-multifunctional-applications</guid>
+      <description>Nano Energy 113, 108522</description>
     </item>
-    
-    <item>
-      <title>A wing-structured sensor with multiple mechanical stimuli differentiation capabilities toward multifunctional applications</title>
-      <link>https://wangluo021.github.io/wl/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://wangluo021.github.io/wl/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

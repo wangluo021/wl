@@ -25,6 +25,6 @@ url_slides: "/slides/BASF_NORA_Poster-Pultrusion_v3.pdf"
 url_source: ''
 url_video: ''
 projects:
-  - external-project
+  - ev-pultrusion-battery-separators
 slides: ''
 ---
